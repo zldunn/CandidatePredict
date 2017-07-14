@@ -1,3 +1,8 @@
+'''
+WRITTEN BY LANCE HASSON AND SIMON WU
+'''
+
+
 from app import app
 from flask import render_template, url_for, request, jsonify
 import json, time, classify
